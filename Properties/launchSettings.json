@@ -1,0 +1,30 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false, 
+    "anonymousAuthentication": true, 
+    "iisExpress": {
+      "applicationUrl": "http://localhost:123456",
+      "sslPort": 44347
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "api/person",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "TakeMeToChurchAPI": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/person",
+      "applicationUrl": "https://localhost:50102;http://localhost:50101",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
