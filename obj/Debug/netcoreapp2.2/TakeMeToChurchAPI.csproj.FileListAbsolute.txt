@@ -12,3 +12,17 @@ c:\Users\ndivhuwo.mbaimbai\TakeMeToChurchAPI\obj\Debug\netcoreapp2.2\TakeMeToChu
 c:\Users\ndivhuwo.mbaimbai\TakeMeToChurchAPI\obj\Debug\netcoreapp2.2\TakeMeToChurchAPI.RazorTargetAssemblyInfo.cache
 c:\Users\ndivhuwo.mbaimbai\TakeMeToChurchAPI\obj\Debug\netcoreapp2.2\TakeMeToChurchAPI.dll
 c:\Users\ndivhuwo.mbaimbai\TakeMeToChurchAPI\obj\Debug\netcoreapp2.2\TakeMeToChurchAPI.pdb
+C:\Users\ndivhuwo.mbaimbai\Downloads\api\takemetochurchapi\bin\Debug\netcoreapp2.2\TakeMeToChurchAPI.deps.json
+C:\Users\ndivhuwo.mbaimbai\Downloads\api\takemetochurchapi\bin\Debug\netcoreapp2.2\TakeMeToChurchAPI.runtimeconfig.json
+C:\Users\ndivhuwo.mbaimbai\Downloads\api\takemetochurchapi\bin\Debug\netcoreapp2.2\TakeMeToChurchAPI.runtimeconfig.dev.json
+C:\Users\ndivhuwo.mbaimbai\Downloads\api\takemetochurchapi\bin\Debug\netcoreapp2.2\TakeMeToChurchAPI.dll
+C:\Users\ndivhuwo.mbaimbai\Downloads\api\takemetochurchapi\bin\Debug\netcoreapp2.2\TakeMeToChurchAPI.pdb
+C:\Users\ndivhuwo.mbaimbai\Downloads\api\takemetochurchapi\obj\Debug\netcoreapp2.2\TakeMeToChurchAPI.csprojAssemblyReference.cache
+C:\Users\ndivhuwo.mbaimbai\Downloads\api\takemetochurchapi\obj\Debug\netcoreapp2.2\TakeMeToChurchAPI.csproj.CoreCompileInputs.cache
+C:\Users\ndivhuwo.mbaimbai\Downloads\api\takemetochurchapi\obj\Debug\netcoreapp2.2\TakeMeToChurchAPI.RazorAssemblyInfo.cache
+C:\Users\ndivhuwo.mbaimbai\Downloads\api\takemetochurchapi\obj\Debug\netcoreapp2.2\TakeMeToChurchAPI.RazorAssemblyInfo.cs
+C:\Users\ndivhuwo.mbaimbai\Downloads\api\takemetochurchapi\obj\Debug\netcoreapp2.2\TakeMeToChurchAPI.AssemblyInfoInputs.cache
+C:\Users\ndivhuwo.mbaimbai\Downloads\api\takemetochurchapi\obj\Debug\netcoreapp2.2\TakeMeToChurchAPI.AssemblyInfo.cs
+C:\Users\ndivhuwo.mbaimbai\Downloads\api\takemetochurchapi\obj\Debug\netcoreapp2.2\TakeMeToChurchAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ndivhuwo.mbaimbai\Downloads\api\takemetochurchapi\obj\Debug\netcoreapp2.2\TakeMeToChurchAPI.dll
+C:\Users\ndivhuwo.mbaimbai\Downloads\api\takemetochurchapi\obj\Debug\netcoreapp2.2\TakeMeToChurchAPI.pdb

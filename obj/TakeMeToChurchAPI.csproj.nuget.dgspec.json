@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ndivhuwo.mbaimbai\\TakeMeToChurchAPI\\TakeMeToChurchAPI.csproj": {}
+    "C:\\Users\\ndivhuwo.mbaimbai\\Downloads\\api\\takemetochurchapi\\TakeMeToChurchAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ndivhuwo.mbaimbai\\TakeMeToChurchAPI\\TakeMeToChurchAPI.csproj": {
+    "C:\\Users\\ndivhuwo.mbaimbai\\Downloads\\api\\takemetochurchapi\\TakeMeToChurchAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ndivhuwo.mbaimbai\\TakeMeToChurchAPI\\TakeMeToChurchAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ndivhuwo.mbaimbai\\Downloads\\api\\takemetochurchapi\\TakeMeToChurchAPI.csproj",
         "projectName": "TakeMeToChurchAPI",
-        "projectPath": "C:\\Users\\ndivhuwo.mbaimbai\\TakeMeToChurchAPI\\TakeMeToChurchAPI.csproj",
+        "projectPath": "C:\\Users\\ndivhuwo.mbaimbai\\Downloads\\api\\takemetochurchapi\\TakeMeToChurchAPI.csproj",
         "packagesPath": "C:\\Users\\ndivhuwo.mbaimbai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ndivhuwo.mbaimbai\\TakeMeToChurchAPI\\obj\\",
+        "outputPath": "C:\\Users\\ndivhuwo.mbaimbai\\Downloads\\api\\takemetochurchapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -63,6 +63,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.3-beta1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
             }
           },
           "imports": [
